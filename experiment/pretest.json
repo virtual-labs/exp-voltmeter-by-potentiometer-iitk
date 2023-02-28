@@ -2,15 +2,32 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Five volts is applied to 2-ohm resistor in series, the resulting current ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "2.5",
+        "b": "25",
+        "c": "0.25",
+        "d": "1.25"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 2",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 1 <a href='https://wps.prenhall.com/esm_giancoli_physicsppa_6/17/4357/1115571.cw/content/index.html#:~:text=Five%20volts%20is%20applied%20to%20two%202%20ohm%20resistors%20connected,5%20A.'>here</a>"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. In a circuit, the current is directly proportional to __________. ",
+      "answers": {
+        "a": "voltage",
+        "b": "resistor",
+        "c": "both a and b",
+        "d": "Temperature"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='nde-ed.org/Physics/Electricity/ohmslaw.xhtml#:~:text=In%20the%20first%20version%20of,inversely%20proportional%20to%20the%20resistance.'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
@@ -19,20 +36,54 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. SI unit of potential gradient   ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Volt/meter",
+        "b": "Volt meter",
+        "c": "ampere meter",
+        "d": "joule/meter"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1  <a href='https://www.google.com/search?q=SI+unit+of+potential+gradient&rlz=1C1UEAD_enIN972IN972&oq=SI+unit+of+potential+gradient&aqs=chrome..69i57j69i59j0i22i30i625j0i15i22i30.860j0j4&sourceid=chrome&ie=UTF-8'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. An ammeter is connected to the circuit   ",
+      "answers": {
+        "a": "Parallel",
+        "b": "Series",
+        "c": "both series and parallel",
+        "d": "none of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='https://www.google.com/search?q=An+ammeter+is+connected+to+the+circuit&rlz=1C1UEAD_enIN972IN972&oq=An+ammeter+is+connected+to+the+circuit&aqs=chrome..69i57j0i22i30l3.732j0j9&sourceid=chrome&ie=UTF-8'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Five 10-ohm resistor connected in parallel then its equivalents resistor will be ",
+      "answers": {
+        "a": "2ohm",
+        "b": "10ohm",
+        "c": "50ohm",
+        "d": "25ohm"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='https://brainly.in/question/35378189'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
