@@ -27,16 +27,15 @@ Note: Calibration should be performed by experienced technicians and with proper
 <br>
 
   
-<b>Name of Developer | <b> Rahul Pushpakar 
+<b>Name of Developer | <b>Dr. ASHUTOSH TIWARI  
 :--|:--|
 <b> Institute | <b> Rajkiya Engineering College Banda 
-<b> Email id|     <b> rahulpushpker@gmail.com 
+<b> Email id|     <b> ashutosh.tiwari@recbanda.ac.in 
 <b> Department |  Mechanical Engineering
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Dr. ASHUTOSH TIWARI  | FACULTY | APPLIED SCIENCE | RAJKIYA ENGINEERING COLLEGE BANDA | ashutosh.tiwari@recbanda.ac.in
-2 | RAHUL PUSHPAKAR | STUDENT | MECHANICAL ENGINEERING | RAJKIYA ENGINEERING COLLEGE BANDA | rahulpushpker@gmail.com
+1 | RAHUL PUSHPAKAR | STUDENT | MECHANICAL ENGINEERING | RAJKIYA ENGINEERING COLLEGE BANDA | rahulpushpker@gmail.com
 
