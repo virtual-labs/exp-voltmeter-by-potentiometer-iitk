@@ -1,0 +1,35 @@
+
+/home/runner/work/exp-voltmeter-by-potentiometer-iitk/exp-voltmeter-by-potentiometer-iitk/experiment/simulation/js/ammeter.js
+   3:7   warning  'textBtn' is assigned a value but never used      no-unused-vars
+   6:7   warning  'textBtn1' is assigned a value but never used     no-unused-vars
+  13:10  warning  'switchonoff1A' is defined but never used         no-unused-vars
+  33:10  warning  'switchonoff2A' is defined but never used         no-unused-vars
+  54:7   warning  'textBtn11' is assigned a value but never used    no-unused-vars
+  55:7   warning  'image22' is assigned a value but never used      no-unused-vars
+  56:7   warning  'rotateBtn22' is assigned a value but never used  no-unused-vars
+  57:7   warning  'textBtn22' is assigned a value but never used    no-unused-vars
+  59:10  warning  'switchonoff11' is defined but never used         no-unused-vars
+  78:10  warning  'switchonoff22' is defined but never used         no-unused-vars
+
+/home/runner/work/exp-voltmeter-by-potentiometer-iitk/exp-voltmeter-by-potentiometer-iitk/experiment/simulation/js/main.js
+   12:7   warning  'button' is assigned a value but never used       no-unused-vars
+  365:7   warning  'rightbutton' is assigned a value but never used  no-unused-vars
+  605:5   warning  'rotation1_1' is assigned a value but never used  no-unused-vars
+  607:10  warning  'switchonoff1_1' is defined but never used        no-unused-vars
+  640:5   warning  'rotation2_2' is assigned a value but never used  no-unused-vars
+  642:10  warning  'switchonoff2_2' is defined but never used        no-unused-vars
+  645:45  warning  'circuit1' is not defined                         no-undef
+  702:10  warning  'switchonoff1' is defined but never used          no-unused-vars
+  741:5   warning  'textBtn2' is assigned a value but never used     no-unused-vars
+  744:10  warning  'switchonoff2' is defined but never used          no-unused-vars
+  746:3   warning  'rotation' is not defined                         no-undef
+  752:42  warning  'rotation' is not defined                         no-undef
+  768:43  warning  'rotation' is not defined                         no-undef
+  776:4   warning  Unnecessary semicolon                             no-extra-semi
+  799:5   warning  'resistance' is already defined                   no-redeclare
+  800:10  warning  'getResistance' is defined but never used         no-unused-vars
+  813:10  warning  'getResistance12' is defined but never used       no-unused-vars
+
+✖ 27 problems (0 errors, 27 warnings)
+  0 errors and 1 warning potentially fixable with the `--fix` option.
+
