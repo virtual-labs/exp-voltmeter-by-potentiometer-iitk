@@ -38,4 +38,5 @@ Note: Calibration should be performed by experienced technicians and with proper
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | RAHUL PUSHPAKAR | STUDENT | MECHANICAL ENGINEERING | RAJKIYA ENGINEERING COLLEGE BANDA | rahulpushpker@gmail.com
-
+2 | ANAS KHAN | STUDENT | INFORMATION TECHNOLOGY  |  RAJKIYA ENGINEERING COLLEGE BANDA | anaskhandev02@gmail.com
+3 | MOHAMMAD JAID | STUDENT | INFORMATION TECHNOLOGY  |  RAJKIYA ENGINEERING COLLEGE BANDA | mohammadjaid1234@gmail.com
