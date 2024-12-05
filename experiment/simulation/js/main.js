@@ -1,3 +1,46 @@
+
+
+//js code for displaying both the SVG file for selecting between them ammeter and voltmeter
+
+const select = document.querySelector("#image-select");
+const svg1 = document.querySelector("#Layer_1");
+const svg2 = document.querySelector("#Layer_2");
+const bottom =document.querySelector('#bottomid1');
+const bottom2 =document.querySelector('#bottomid2');
+
+
+select.addEventListener("change", function() {
+
+  
+  svg1.style.display = "none";
+  svg2.style.display = "none";
+  bottom.style.display = "none";
+  bottom2.style.display = "none";
+
+  if (this.value === "image1") {
+    svg1.style.display = "block";
+    bottom.style.display = "block";
+  } else if (this.value === "image2") {
+    svg2.style.display = "block";
+    bottom2.style.display = "block";
+
+   
+  }});
+
+//end 
+
+
+
+
+
+
+
+
+
+
+
+
+
 //Your JavaScript goes in here
 let x = 0;
 var circuit=false
@@ -14,39 +57,6 @@ const needle = document.getElementById("needle");
 
 
 
-const select = document.querySelector("#image-select");
-const svg1 = document.querySelector("#Layer_1");
-const svg2 = document.querySelector("#Layer_2");
-
-select.addEventListener("change", function() {
-
-  
-  svg1.style.display = "none";
-  svg2.style.display = "none";
-  if (this.value === "image1") {
-    svg1.style.display = "block";
-  } else if (this.value === "image2") {
-    svg2.style.display = "block";
-   
-  }});
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -57,9 +67,6 @@ var resistance = document.getElementById('resistance1').value;
 
 
 function leftShift(){
-
-
-
   
   x = x - 5;
   moveline.setAttribute("x1", parseInt(moveline.getAttribute("x1")) - 5);
@@ -355,11 +362,6 @@ if (circuit2==true && circuit==false) {
   
 }
 
-
-
-
-
-  
 
 
 const rightbutton = document.getElementById("right-button");
