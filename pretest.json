@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1) 5 volts is applied to 2-ohm resistor in series, the resulting current is ? ",
+      "answers": {
+        "a": "2.5",
+        "b": "25",
+        "c": "0.25",
+        "d": "1.25"
+      },
+      "explanations": {
+        "a": "Explanation 1<a href='https://www.google.com/search?q=5+volts+is+applied+to+2-ohm+resistor+in+series%2C+the+resulting+current&sca_esv=420e1a9f55386e97&sxsrf=ADLYWIJicGiVp9CYS7I6opu8nQRN1nNCrA%3A1728457850456&ei=eiwGZ4vAG4ehnesP6oT6qA8&ved=0ahUKEwiL5b2h34CJAxWHUGcHHWqCHvUQ4dUDCA8&uact=5&oq=5+volts+is+applied+to+2-ohm+resistor+in+series%2C+the+resulting+current&gs_lp=Egxnd3Mtd2l6LXNlcnAiRTUgdm9sdHMgaXMgYXBwbGllZCB0byAyLW9obSByZXNpc3RvciBpbiBzZXJpZXMsIHRoZSByZXN1bHRpbmcgY3VycmVudEiUEVCECFiECHABeAGQAQCYAcoBoAHKAaoBAzItMbgBA8gBAPgBAZgCAaACB8ICBxAjGLADGCfCAgoQABiwAxjWBBhHmAMAiAYBkAYJkgcBMaAHeQ&sclient=gws-wiz-serp'>here</a>" ,
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2 "
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2) In a circuit, the current is directly proportional to __________? ",
+      "answers": {
+        "a": "voltage",
+        "b": "resistor",
+        "c": "both a and b",
+        "d": "Temperature"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='https://www.google.com/search?q=In+a+circuit%2C+the+current+is+directly+proportional+to+__________%3F&oq=In+a+circuit%2C+the+current+is+directly+proportional+to+__________%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEDSAQcyMTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3) SI unit of potential gradient ?  ",
+      "answers": {
+        "a": "Volt/meter",
+        "b": "Volt meter",
+        "c": "ampere meter",
+        "d": "joule/meter"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='https://www.google.com/search?q=SI+unit+of+potential+gradient&rlz=1C1UEAD_enIN972IN972&oq=SI+unit+of+potential+gradient&aqs=chrome..69i57j69i59j0i22i30i625j0i15i22i30.860j0j4&sourceid=chrome&ie=UTF-8'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4) An ammeter is connected to the circuit in ?  ",
+      "answers": {
+        "a": "Parallel",
+        "b": "Series",
+        "c": "both series and parallel",
+        "d": "none of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1 ", 
+        "b": "Explanation 2 <a href='https://www.google.com/search?q=An+ammeter+is+connected+to+the+circuit&rlz=1C1UEAD_enIN972IN972&oq=An+ammeter+is+connected+to+the+circuit&aqs=chrome..69i57j0i22i30l3.732j0j9&sourceid=chrome&ie=UTF-8'>here</a>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5) Five 10-ohm resistor connected in parallel then its equivalents resistor will be ?  ",
+      "answers": {
+        "a": "2-ohm",
+        "b": "10-ohm",
+        "c": "50-ohm",
+        "d": "25-ohm"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='https://www.google.com/search?q=Five+10-ohm+resistor+connected+in+parallel+then+its+equivalents+resistor+will+be+%3F&oq=Five+10-ohm+resistor+connected+in+parallel+then+its+equivalents+resistor+will+be+%3F&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGEAyBggCEEUYPNIBBzI0MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
