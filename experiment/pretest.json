@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Five volts is applied to 2-ohm resistor in series, the resulting current ",
+      "question": "1) 5 volts is applied to 2-ohm resistor in series, the resulting current is ? ",
       "answers": {
         "a": "2.5",
         "b": "25",
@@ -10,16 +10,16 @@
         "d": "1.25"
       },
       "explanations": {
-        "a": "Explanation 2",
+        "a": "Explanation 1<a href='https://www.google.com/search?q=5+volts+is+applied+to+2-ohm+resistor+in+series%2C+the+resulting+current&sca_esv=420e1a9f55386e97&sxsrf=ADLYWIJicGiVp9CYS7I6opu8nQRN1nNCrA%3A1728457850456&ei=eiwGZ4vAG4ehnesP6oT6qA8&ved=0ahUKEwiL5b2h34CJAxWHUGcHHWqCHvUQ4dUDCA8&uact=5&oq=5+volts+is+applied+to+2-ohm+resistor+in+series%2C+the+resulting+current&gs_lp=Egxnd3Mtd2l6LXNlcnAiRTUgdm9sdHMgaXMgYXBwbGllZCB0byAyLW9obSByZXNpc3RvciBpbiBzZXJpZXMsIHRoZSByZXN1bHRpbmcgY3VycmVudEiUEVCECFiECHABeAGQAQCYAcoBoAHKAaoBAzItMbgBA8gBAPgBAZgCAaACB8ICBxAjGLADGCfCAgoQABiwAxjWBBhHmAMAiAYBkAYJkgcBMaAHeQ&sclient=gws-wiz-serp'>here</a>" ,
         "b": "Explanation 2",
         "c": "Explanation 2",
-        "d": "Explanation 1 <a href='https://wps.prenhall.com/esm_giancoli_physicsppa_6/17/4357/1115571.cw/content/index.html#:~:text=Five%20volts%20is%20applied%20to%20two%202%20ohm%20resistors%20connected,5%20A.'>here</a>"
+        "d": "Explanation 2 "
       },
-      "correctAnswer": "d",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "2. In a circuit, the current is directly proportional to __________. ",
+      "question": "2) In a circuit, the current is directly proportional to __________? ",
       "answers": {
         "a": "voltage",
         "b": "resistor",
@@ -27,7 +27,7 @@
         "d": "Temperature"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='nde-ed.org/Physics/Electricity/ohmslaw.xhtml#:~:text=In%20the%20first%20version%20of,inversely%20proportional%20to%20the%20resistance.'>here</a>",
+        "a": "Explanation 1  <a href='https://www.google.com/search?q=In+a+circuit%2C+the+current+is+directly+proportional+to+__________%3F&oq=In+a+circuit%2C+the+current+is+directly+proportional+to+__________%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEDSAQcyMTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3. SI unit of potential gradient   ",
+      "question": "3) SI unit of potential gradient ?  ",
       "answers": {
         "a": "Volt/meter",
         "b": "Volt meter",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4. An ammeter is connected to the circuit   ",
+      "question": "4) An ammeter is connected to the circuit in ?  ",
       "answers": {
         "a": "Parallel",
         "b": "Series",
@@ -61,8 +61,8 @@
         "d": "none of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='https://www.google.com/search?q=An+ammeter+is+connected+to+the+circuit&rlz=1C1UEAD_enIN972IN972&oq=An+ammeter+is+connected+to+the+circuit&aqs=chrome..69i57j0i22i30l3.732j0j9&sourceid=chrome&ie=UTF-8'>here</a>",
-        "b": "Explanation 2",
+        "a": "Explanation 1 ", 
+        "b": "Explanation 2 <a href='https://www.google.com/search?q=An+ammeter+is+connected+to+the+circuit&rlz=1C1UEAD_enIN972IN972&oq=An+ammeter+is+connected+to+the+circuit&aqs=chrome..69i57j0i22i30l3.732j0j9&sourceid=chrome&ie=UTF-8'>here</a>",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
@@ -70,15 +70,15 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5. Five 10-ohm resistor connected in parallel then its equivalents resistor will be ",
+      "question": "5) Five 10-ohm resistor connected in parallel then its equivalents resistor will be ?  ",
       "answers": {
-        "a": "2ohm",
-        "b": "10ohm",
-        "c": "50ohm",
-        "d": "25ohm"
+        "a": "2-ohm",
+        "b": "10-ohm",
+        "c": "50-ohm",
+        "d": "25-ohm"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='https://brainly.in/question/35378189'>here</a>",
+        "a": "Explanation 1  <a href='https://www.google.com/search?q=Five+10-ohm+resistor+connected+in+parallel+then+its+equivalents+resistor+will+be+%3F&oq=Five+10-ohm+resistor+connected+in+parallel+then+its+equivalents+resistor+will+be+%3F&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGEAyBggCEEUYPNIBBzI0MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
