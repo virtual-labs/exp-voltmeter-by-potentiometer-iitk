@@ -10,10 +10,10 @@
         "d": "1.25"
       },
       "explanations": {
-        "a": "Explanation 1<a href='https://www.google.com/search?q=5+volts+is+applied+to+2-ohm+resistor+in+series%2C+the+resulting+current&sca_esv=420e1a9f55386e97&sxsrf=ADLYWIJicGiVp9CYS7I6opu8nQRN1nNCrA%3A1728457850456&ei=eiwGZ4vAG4ehnesP6oT6qA8&ved=0ahUKEwiL5b2h34CJAxWHUGcHHWqCHvUQ4dUDCA8&uact=5&oq=5+volts+is+applied+to+2-ohm+resistor+in+series%2C+the+resulting+current&gs_lp=Egxnd3Mtd2l6LXNlcnAiRTUgdm9sdHMgaXMgYXBwbGllZCB0byAyLW9obSByZXNpc3RvciBpbiBzZXJpZXMsIHRoZSByZXN1bHRpbmcgY3VycmVudEiUEVCECFiECHABeAGQAQCYAcoBoAHKAaoBAzItMbgBA8gBAPgBAZgCAaACB8ICBxAjGLADGCfCAgoQABiwAxjWBBhHmAMAiAYBkAYJkgcBMaAHeQ&sclient=gws-wiz-serp'>here</a>" ,
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2 "
+        "a": "Explanation" ,
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Temperature"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='https://www.google.com/search?q=In+a+circuit%2C+the+current+is+directly+proportional+to+__________%3F&oq=In+a+circuit%2C+the+current+is+directly+proportional+to+__________%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEDSAQcyMTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "joule/meter"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='https://www.google.com/search?q=SI+unit+of+potential+gradient&rlz=1C1UEAD_enIN972IN972&oq=SI+unit+of+potential+gradient&aqs=chrome..69i57j69i59j0i22i30i625j0i15i22i30.860j0j4&sourceid=chrome&ie=UTF-8'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "none of the above"
       },
       "explanations": {
-        "a": "Explanation 1 ", 
-        "b": "Explanation 2 <a href='https://www.google.com/search?q=An+ammeter+is+connected+to+the+circuit&rlz=1C1UEAD_enIN972IN972&oq=An+ammeter+is+connected+to+the+circuit&aqs=chrome..69i57j0i22i30l3.732j0j9&sourceid=chrome&ie=UTF-8'>here</a>",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation", 
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "25-ohm"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='https://www.google.com/search?q=Five+10-ohm+resistor+connected+in+parallel+then+its+equivalents+resistor+will+be+%3F&oq=Five+10-ohm+resistor+connected+in+parallel+then+its+equivalents+resistor+will+be+%3F&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGEAyBggCEEUYPNIBBzI0MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
