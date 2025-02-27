@@ -10,9 +10,9 @@
         "d": "1 m"
       },
       "explanations": {
-        "a": "Explanation 2",
-        "b": "Explanation 2",
-        "c": "Explanation 1 <a href='https://www.google.com/search?q=What+should+be+the+size+of+slide+wire+of+potentiometer+to+make+achieve+high+accuracy&oq=What+should+be+the+size+of+slide+wire+of+potentiometer+to+make+achieve+high+accuracy&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzczMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8'>here</a>",
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
@@ -27,10 +27,10 @@
         "d": "insufficient data"
       },
       "explanations": {
-        "a": "Explanation 2 ",
-        "b": "Explanation 1  <a href='https://qna.talkjarvis.com/59551/potentiometer-resistance-resistance-accumulator-negligible-resistance-potentiometer'>here</a>",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
@@ -44,10 +44,10 @@
         "d": "3 ohms"
       },
       "explanations": {
-        "a": "Explanation 2",  
-        "b": "Explanation 1 <a href='https://qna.talkjarvis.com/59739/balancing-length-potentiometer-shunting-resistance-balancing-shifts-internal-resistance'>here</a>",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",  
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
@@ -61,10 +61,10 @@
         "d": "1.7"
       },
       "explanations": {
-        "a": "Explanation 2",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 1 <a href='https://www.sanfoundry.com/physics-questions-answers-current-electricity-potentiometer/#google_vignette'>here</a> "
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "d",
       "difficulty": "intermediate"
@@ -78,10 +78,10 @@
         "d": "0.5 × 10^-8 V/m"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='https://qna.talkjarvis.com/59762/potentiometer-potential-resistance-potentiometer-sectional-calculate-potentiometer'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "advanced"
